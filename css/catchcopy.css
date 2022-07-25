@@ -1,0 +1,9 @@
+.catchcopy {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 40px;
+}
+.catchcopy h2 {
+  margin-bottom: 24px;
+  text-align: center;
+}
